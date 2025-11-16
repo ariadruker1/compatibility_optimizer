@@ -137,3 +137,6 @@ Potential future improvements include:
 - Integrating **visualization tools** to show convergence and score progression.  
 - Allowing dynamic benchmark calculation instead of the fixed value (4949).  
 - Enabling user-defined constraints or categorical balancing within pairings.
+- 
+
+## Starter code from Richard Hoshino and completed as part of CS5100 Foundations of Artificial Intelligence
